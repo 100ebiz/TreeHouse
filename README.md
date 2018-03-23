@@ -1,1 +1,1 @@
-# 100ebiz.github.io/TreeHouse/
+# 100ebiz.github.io/treehouse/
